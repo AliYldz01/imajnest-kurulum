@@ -1,6 +1,6 @@
 # İMAJNest
 
-**Son sürüm:** 2026.11.1.2247 (01.11.2026)
+**Son sürüm:** 2026.11.1.2251 (01.11.2026)
 
 **[⬇ İMAJNest'i indir](https://github.com/AliYldz01/imajnest-kurulum/releases/latest/download/IMAJNest_Kurulum.exe)** · [İndirme sayfası](https://aliyldz01.github.io/imajnest-kurulum/)
 
@@ -12,4 +12,5 @@ Windows 10/11 (64 bit). Kurulum imzasız olduğu için Windows "bilgisayarınız
 
 ## Bu sürümde
 
-İyileştirmeler ve hata düzeltmeleri.
+• Çizim: yayların uçlarını birleştirirken (özellikle neredeyse düz, çok büyük yarıçaplı yaylarda) programın donması giderildi.
+• Donma bekçisi: program 3 saniyeden uzun yanıt vermezse donduğu yeri kaydeder ve raporun geri bildirim olarak gönderilmesini isteyip istemediğinizi sorar.
