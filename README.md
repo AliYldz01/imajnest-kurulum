@@ -1,6 +1,6 @@
 # İMAJNest
 
-**Son sürüm:** 2026.11.1.1830 (01.11.2026)
+**Son sürüm:** 2026.11.1.1938 (01.11.2026)
 
 **[⬇ İMAJNest'i indir](https://github.com/AliYldz01/imajnest-kurulum/releases/latest/download/IMAJNest_Kurulum.exe)** · [İndirme sayfası](https://aliyldz01.github.io/imajnest-kurulum/)
 
@@ -12,6 +12,6 @@ Windows 10/11 (64 bit). Kurulum imzasız olduğu için Windows "bilgisayarınız
 
 ## Bu sürümde
 
-- Sonuç özetindeki doluluk oranı bazı yerleşimlerde %100'ün üzerinde görünüyordu; düzeltildi (rapordaki sac doluluğu da)
-- Plazmada yeni tablolarda mikro bağlantı boyu kerften büyük olacak şekilde varsayılan değer düzeltildi
-- Teknoloji penceresinde sekme değişince pencere başlığı da değişiyor
+• Yeni: Kullanım kılavuzu uygulamanın içinde. Yardım → Kullanım kılavuzu veya F1 (açık sekmenin konusu açılır). Kılavuz lisanslı kullanıcılar içindir.
+• Kısayollar penceresi artık Shift+F1 ile açılır.
+• Kılavuz: lazer ve plazma ayrı bölümlerde; parçalar, çizim, saclar, nesting, post processor, maliyet/teklif, çıktılar, projeler, ayarlar, sorun giderme ve sözlük.
