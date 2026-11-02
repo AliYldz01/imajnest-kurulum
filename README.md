@@ -1,6 +1,6 @@
 # İMAJNest
 
-**Son sürüm:** 2026.11.2.2143 (02.11.2026)
+**Son sürüm:** 2026.11.2.2219 (02.11.2026)
 
 **[⬇ İMAJNest'i indir](https://github.com/AliYldz01/imajnest-kurulum/releases/latest/download/IMAJNest_Kurulum.exe)** · [İndirme sayfası](https://aliyldz01.github.io/imajnest-kurulum/)
 
@@ -12,4 +12,4 @@ Windows 10/11 (64 bit). Kurulum imzasız olduğu için Windows "bilgisayarınız
 
 ## Bu sürümde
 
-• Ortak kenar kesimi (lazer): ortak kesim artık yalnız aynı dikdörtgen parçalardan oluşan bloklarda yapılır; ortak kenarı olmayan parçalar arasında ayarladığınız parça aralığı her zaman korunur (parçalar birbirine kerf kadar yaklaşmaz).
+• Yazılımsal iyileştirmeler ve performans düzenlemeleri.
