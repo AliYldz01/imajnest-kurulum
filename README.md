@@ -1,6 +1,6 @@
 # İMAJNest
 
-**Son sürüm:** 2026.11.2.2219 (02.11.2026)
+**Son sürüm:** 2026.11.3.1055 (03.11.2026)
 
 **[⬇ İMAJNest'i indir](https://github.com/AliYldz01/imajnest-kurulum/releases/latest/download/IMAJNest_Kurulum.exe)** · [İndirme sayfası](https://aliyldz01.github.io/imajnest-kurulum/)
 
@@ -12,4 +12,4 @@ Windows 10/11 (64 bit). Kurulum imzasız olduğu için Windows "bilgisayarınız
 
 ## Bu sürümde
 
-• Yazılımsal iyileştirmeler ve performans düzenlemeleri.
+• Yeni: Parça katmanları. Parça listesinde parçaya çift tıklayın; çizgileri seçip 8 işlem katmanından birine atayın (mor, turuncu, sarı…). Katmanlar CypCut (LXDS), Raytools (NSP) ve DXF çıktılarına yazılır; makine yazılımında markalama, gravür veya farklı kesim ayarı atanabilir.
