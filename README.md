@@ -1,6 +1,6 @@
 # İMAJNest
 
-**Son sürüm:** 2026.11.3.1126 (03.11.2026)
+**Son sürüm:** 2026.11.4.0108 (04.11.2026)
 
 **[⬇ İMAJNest'i indir](https://github.com/AliYldz01/imajnest-kurulum/releases/latest/download/IMAJNest_Kurulum.exe)** · [İndirme sayfası](https://aliyldz01.github.io/imajnest-kurulum/)
 
@@ -12,5 +12,9 @@ Windows 10/11 (64 bit). Kurulum imzasız olduğu için Windows "bilgisayarınız
 
 ## Bu sürümde
 
-• Başka bir programda açık olan çizim dosyaları artık içe aktarılabiliyor.
+• Seri yerleştirme iyileştirildi: aynı parçadan çok adetli işlerde saclar daha dolu ve düzenli diziliyor, sonuç daha hızlı bulunuyor.
+• Son sac olabildiğince sacın başına toplanıyor; artan parçalar düzenli diziliyor.
+• Çok saclı işlerde dolu saclar da iyileştiriliyor; son sac kısalıyor.
+• Parça aralığı 0 iken iyileştirme turlarının çalışmaması düzeltildi.
+• Döndürme adımına 10° ve 5° seçenekleri eklendi.
 • Yazılımsal iyileştirmeler.
