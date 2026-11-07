@@ -1,6 +1,6 @@
 # İMAJNest
 
-**Son sürüm:** 2026.11.4.2242 (04.11.2026)
+**Son sürüm:** 2026.11.7.2231 (07.11.2026)
 
 **[⬇ İMAJNest'i indir](https://github.com/AliYldz01/imajnest-kurulum/releases/latest/download/IMAJNest_Kurulum.exe)** · [İndirme sayfası](https://aliyldz01.github.io/imajnest-kurulum/)
 
@@ -12,9 +12,18 @@ Windows 10/11 (64 bit). Kurulum imzasız olduğu için Windows "bilgisayarınız
 
 ## Bu sürümde
 
-• Yeni: Sac açınımı (Çizim menüsü → Sac açınımı). 70 hazır şekil 8 grupta: boru ve kanallar, dirsekler, boru ve kanal branşmanları, koni ve redüksiyonlar, kare/dikdörtgen→yuvarlak geçişler, tank/silo/başlıklar, abkant profilleri. Ölçüleri girin; ölçülü şema ve 3B önizlemeyle açınımı anında görün.
-• Sac kalınlığı nötr eksenle hesaplanır (dış, iç veya orta ölçü). Branşmanlarda oturtma / geçme bağlantı, kaynak aralığı, dikiş bindirme payı, kaynak yeri ve çeyrek işaretleri.
-• Abkantla katlanan koni ve geçişlerde katlama sayısı otomatik seçilir; her büküm çizgisinin açısı ve yönü (aşağı / yukarı) hesaplanır. Geri esneme payıyla makine ayar açısı.
-• Parça bölme: zor bükülen parçalar (ör. kare→yuvarlak) 2 veya daha fazla parça halinde çıkarılabilir; büyük açınımlar azami boya göre bölünür.
-• Açınım raporu (PDF): ölçülü resim, her büküm çizgisinde açı yazısı, büküm tablosu ve aynı açılı büküm grupları; haddelenen parçalarda merdane yarıçapı.
-• Açınımlar tek tıkla parça listesine eklenir, DXF olarak kaydedilir veya çizimde açılır. Büküm çizgileri DXF'e tam çizgi veya uç işareti olarak yazılabilir.
+- Lazer: giriş / çıkış, mikro bağlantı ve kerf telafisi artık seçili parçalara ve konturlara uygulanıyor (elle veya otomatik, CypCut pencereleri gibi).
+- Elle giriş: boş bir noktaya, sonra kontura tıklayın. Elle mikro bağlantı: boyu girip kontur üzerine tıklayın.
+- Otomatik giriş / çıkış, otomatik mikro bağlantı ve kerf telafisi pencereleri; adlandırılmış ön ayarlar.
+- Yeni Seç menüsü: katmana göre, büyük / küçük parçalar, iç / dış konturlar, benzer şekiller, türe göre, açık grafikler, seçimi ters çevir.
+- Nesting öncesi parçaya verilen giriş ve dışa kerf yerleşimde parça sınırına dahil ediliyor.
+- Giriş çakışma kontrolü (çakışan girişleri kısaltır veya başka yere taşır), kontur ayarlarında geri al / yinele.
+- Lazer kesim sırası önizlemesi, elle sıra ve simülasyon.
+- Parça numarası / adı gravürü.
+- CypCut (.lxds) dosyasından katman kesim ayarlarını içe aktarma.
+- CypCut çıktısına giriş / çıkış, kerf telafisi ve mikro bağlantılar CypCut'ın kendi biçiminde yazılıyor.
+- Lazer süre hesabı CypCut ile aynı yapıya getirildi (gaz açma, delme kademeleri, yavaş başlama/bitiş, köşe tekniği, boş hareket ivmesi).
+- Hız, ivme ve süre birimleri seçilebiliyor (Ayarlar → Birimler).
+- Yeni malzeme ve teknoloji penceresi: malzeme → kalınlık → ayrıntılı ayarlar.
+- Ortak kenara uygun yerleştirme iyileştirmeleri.
+- Nesting ayarları penceresi sadeleştirildi.
