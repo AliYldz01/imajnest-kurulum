@@ -1,6 +1,6 @@
 # İMAJNest
 
-**Son sürüm:** 2026.11.8.1552 (08.11.2026)
+**Son sürüm:** 2026.11.8.2230 (08.11.2026)
 
 **[⬇ İMAJNest'i indir](https://github.com/AliYldz01/imajnest-kurulum/releases/latest/download/IMAJNest_Kurulum.exe)** · [İndirme sayfası](https://aliyldz01.github.io/imajnest-kurulum/)
 
@@ -12,10 +12,11 @@ Windows 10/11 (64 bit). Kurulum imzasız olduğu için Windows "bilgisayarınız
 
 ## Bu sürümde
 
-- Kerf telafisi artık tuvalde turkuaz şeritle gösteriliyor; uzaktan da hangi parçada ve hangi tarafta kerf olduğu görülüyor.
-- Sonuç özetine "Kerf telafisi: n / toplam parça" satırı eklendi.
-- Raytools çıktısında bazı parçalarda kerf yolunun kenardan saptığı hata düzeltildi. Raytools (.nsp) dosyalarını yeniden dışa aktarmanız önerilir.
-- Kerf'ten dar oluk ve boyunlarda kesim yolu artık oluğu atlamıyor; oluğun ortasından girip dönüyor. Bu durumda ve kerf uygulanamadığında uyarı veriliyor.
-- DXF içe aktarmada yay yumuşatma daha doğru: düz kenarlar yanlışlıkla yaya çevrilmiyor.
-- "Elle sıra" ipucu güncellendi (Enter veya sağ tık ile bitir).
-- Kullanım kılavuzu güncellendi (lazer bölümü yeniden yazıldı, yeni ekran görüntüleri).
+- Ayar pencereleri yenilendi: giriş/çıkış, mikro bağlantı, kerf, kalınlık ayarları, Parçayı düzenle, plazma teknolojisi, makine profili ve nesting penceresinde simgeli seçimler, canlı önizleme ve açılır "Gelişmiş" bölümü.
+- Kerf'e bağlı telafi: işaretliyken telafi her zaman kerf/2 olur, malzeme tablosunda kerf değişince kendiliğinden güncellenir.
+- Parçadan sac: parça listesinde sağ tık → "Sac olarak tanımla"; çizim penceresinde "Sac kütüphanesine ekle". Parçanın delikleri sacta boş bölge olur, nesting oraya parça koymaz.
+- Envanterden sahneye sac eklerken adet sorulur; en fazla stoktaki kadar eklenebilir.
+- Düzeltme: sık yerleşimlerde ("En yakın" kesim başlangıcında) bazı deliklerin girişi çok kısalıp görünmüyordu; girişler artık tam boyda.
+- Düzeltme: çok parçalı saclarda yakınlaştırınca giriş ve mikro bağlantılar artık her parçada görünür.
+- Pencere başlıklarında yazım düzeltmeleri.
+- Kullanım kılavuzu güncellendi (yeni ayar pencereleri, parçadan sac, sahneye adet).
