@@ -1,6 +1,6 @@
 # İMAJNest
 
-**Son sürüm:** 2026.11.9.1631 (09.11.2026)
+**Son sürüm:** 2026.11.9.1658 (09.11.2026)
 
 **[⬇ İMAJNest'i indir](https://github.com/AliYldz01/imajnest-kurulum/releases/latest/download/IMAJNest_Kurulum.exe)** · [İndirme sayfası](https://aliyldz01.github.io/imajnest-kurulum/)
 
@@ -12,6 +12,6 @@ Windows 10/11 (64 bit). Kurulum imzasız olduğu için Windows "bilgisayarınız
 
 ## Bu sürümde
 
-Düzeltme
-- Çizim penceresinde bir varlık seçilince çıkan "Unable to cast ... Style to Brush" hatası giderildi (hızlı menü arka planı).
-- Çizim sağ paneli bir hatada çizimi düşürmez; kısa not gösterir ve günlüğe yazar.
+Çizim: ölçü değiştirince ötedeki geometri bütün olarak kayar
+- Bir ölçüyü değiştirdiğinizde hareket eden ucun ötesindeki tüm çizimler (bağlı zincir ve uç uca yapışık parçalar) ölçü farkı kadar topluca kayar; ölçüsüz kenarlar esneyip diğer parçaların içine gömülmez.
+- Uzak uç ve ona bağlı taraf yerinde kalır; yatay / dikey ilişkiler ve mevcut ölçüler korunur.
