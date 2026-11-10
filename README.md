@@ -1,6 +1,6 @@
 # İMAJNest
 
-**Son sürüm:** 2026.11.10.2234 (10.11.2026)
+**Son sürüm:** 2026.11.11.0038 (11.11.2026)
 
 **[⬇ İMAJNest'i indir](https://github.com/AliYldz01/imajnest-kurulum/releases/latest/download/IMAJNest_Kurulum.exe)** · [İndirme sayfası](https://aliyldz01.github.io/imajnest-kurulum/)
 
@@ -12,10 +12,4 @@ Windows 10/11 (64 bit). Kurulum imzasız olduğu için Windows "bilgisayarınız
 
 ## Bu sürümde
 
-• DXF ekle penceresi: listede bir harfe basınca o harfle başlayan dosyaya gidilir (aynı harfe tekrar basınca sonrakine, hızlı yazınca isme göre).
-• DXF ekle penceresi: Ad / Tarih / Boyut / Tür sıralaması (tekrar tık: yön değişir; seçim hatırlanır, klasörler üstte).
-• Özdeş sac grupları: aynı yerleşimli saclar sac şeridinde, sac listesinde ve sayfalarda tek sac olarak ×N rozetiyle gösterilir (ör. Sac 1–50 ×50).
-• Gruptaki sacta yapılan her düzenleme (taşıma, döndürme, giriş / mikro bağlantı / kerf, kesim sırası, boşluk doldurma) gruptaki tüm saclara uygulanır.
-• Sac şeridi sağ tık: grupta "Sil..." kaç sac silineceğini sorar (parçalar listeye döner), "Gruptan ayır..." ile seçilen sayıda sac ayrı düzenlenebilir.
-• Sac raporu (PDF): özdeş saclar tek sayfada, yerleşim resminde ×N işareti, sac başına ve grup toplamı değerleri.
-• CypCut (LXDS) dosyası açma: bazı parçaların yerleşmemiş görünmesi düzeltildi.
+• Çizim modülü: çok sayıda çizgi ve yazı içeren DXF dosyalarında (ör. elektrik şemaları) takılma giderildi; ekran ve fare hareketleri çok daha akıcı.
