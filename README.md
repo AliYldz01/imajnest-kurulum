@@ -1,6 +1,6 @@
 # İMAJNest
 
-**Son sürüm:** 2026.11.11.0038 (11.11.2026)
+**Son sürüm:** 2026.11.11.0128 (11.11.2026)
 
 **[⬇ İMAJNest'i indir](https://github.com/AliYldz01/imajnest-kurulum/releases/latest/download/IMAJNest_Kurulum.exe)** · [İndirme sayfası](https://aliyldz01.github.io/imajnest-kurulum/)
 
@@ -12,4 +12,7 @@ Windows 10/11 (64 bit). Kurulum imzasız olduğu için Windows "bilgisayarınız
 
 ## Bu sürümde
 
-• Çizim modülü: çok sayıda çizgi ve yazı içeren DXF dosyalarında (ör. elektrik şemaları) takılma giderildi; ekran ve fare hareketleri çok daha akıcı.
+• Çizim modülü: çok detaylı DXF'lerde (ör. elektrik şemaları) yakınlaştırma, kaydırma ve fare hareketindeki takılma ve donmalar giderildi.
+• Çizim modülü: DXF eklerken yazılar artık 'Okunabilir yazı' olarak alınabilir (önerilen, hızlı; kesime / gravüre girmez). İstenirse sonradan düzenlenebilir yazıya çevrilir.
+• Çizim modülü: düzenlenebilir yazılar daha hızlı; parça bilgisi arka planda hesaplanır, düzenleme sırasında arayüz donmaz.
+• Çizim modülü: çok sayıda otomatik ilişki içeren çizimlerde ekran akıcılığı iyileştirildi.
