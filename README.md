@@ -1,6 +1,6 @@
 # İMAJNest
 
-**Son sürüm:** 2026.11.11.2049 (11.11.2026)
+**Son sürüm:** 2026.11.11.2132 (11.11.2026)
 
 **[⬇ İMAJNest'i indir](https://github.com/AliYldz01/imajnest-kurulum/releases/latest/download/IMAJNest_Kurulum.exe)** · [İndirme sayfası](https://aliyldz01.github.io/imajnest-kurulum/)
 
@@ -12,5 +12,6 @@ Windows 10/11 (64 bit). Kurulum imzasız olduğu için Windows "bilgisayarınız
 
 ## Bu sürümde
 
-• Maliyet ve teklif: yeni 'Müşteri sacı' seçeneği — sacı müşteri getiriyorsa sac bedeli ve hurda indirimi hesaba katılmaz, yalnız kesim işçiliği ve makine giderleri ücretlendirilir. Genel ayar olarak (Maliyet ve teklif ayarları → Ücretlendirme) ya da yalnız o iş için (Çıktı bölümündeki 'Müşteri sacı' kutusu) seçilebilir.
-• Teklif ve sac raporunda müşteri sacı ayrıca belirtilir; kullanılan sac ağırlığı bilgi olarak gösterilir.
+• Çizim — Ötele: merkez dikdörtgen artık doğru ötelenir (yardımcı köşegen çizgileri ötelemeyi bozuyordu).
+• Çizim — Ötele: kanal (slot) ve çokgende yardımcı (inşaat) çizgileri/çemberleri artık ötelenmez; yalnız gerçek kontur ötelenir.
+• Çizim — Ötele: bir noktada üç veya daha fazla çizginin birleştiği şekiller (köşeden çıkan çizgi vb.) doğru ötelenir; kapalı kontur ve kollar ayrı ayrı ötelenir.
