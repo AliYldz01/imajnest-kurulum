@@ -1,6 +1,6 @@
 # İMAJNest
 
-**Son sürüm:** 2026.11.11.2132 (11.11.2026)
+**Son sürüm:** 2026.11.18.1016 (18.11.2026)
 
 **[⬇ İMAJNest'i indir](https://github.com/AliYldz01/imajnest-kurulum/releases/latest/download/IMAJNest_Kurulum.exe)** · [İndirme sayfası](https://aliyldz01.github.io/imajnest-kurulum/)
 
@@ -12,6 +12,7 @@ Windows 10/11 (64 bit). Kurulum imzasız olduğu için Windows "bilgisayarınız
 
 ## Bu sürümde
 
-• Çizim — Ötele: merkez dikdörtgen artık doğru ötelenir (yardımcı köşegen çizgileri ötelemeyi bozuyordu).
-• Çizim — Ötele: kanal (slot) ve çokgende yardımcı (inşaat) çizgileri/çemberleri artık ötelenmez; yalnız gerçek kontur ötelenir.
-• Çizim — Ötele: bir noktada üç veya daha fazla çizginin birleştiği şekiller (köşeden çıkan çizgi vb.) doğru ötelenir; kapalı kontur ve kollar ayrı ayrı ötelenir.
+• DXF içe aktarma: köşeye değen bükme boşlukları gibi bir noktada üç veya daha fazla çizginin birleştiği çizimler (SolidWorks açınımları vb.) artık doğru birleştirilir; dış kontur kapanır, boşluk kesilir.
+• DXF birleştirme toleransları: uç birleştirme ve otomatik kapatma toleransı ayarlanabilir (Ayarlar → DXF birleştirme toleransları veya DXF ekle penceresindeki 'Birleştirme toleransı…' düğmesi). Açık kalan konturda kapatma için gereken değer önerilir.
+• Parça penceresi tek pencerede: parça listesinde çift tıklayınca Kesim ayarları, Katmanlar ve Çizimi düzenle sayfaları birlikte açılır (plazmada Katmanlar ve Çizimi düzenle).
+• Çizimi düzenle: çizgiler tek tek (tık) veya bütün olarak (çift tık) seçilip silinebilir, gravüre / kesime çevrilebilir, açık uçlar birleştirilip kapatılabilir; geri al / ileri al (Ctrl+Z / Ctrl+Y).
